@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "大小写转换", "大小写转换.vcxproj", "{E94D668B-98C9-4506-B16A-D7CE8435898F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Debug|x64.ActiveCfg = Debug|x64
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Debug|x64.Build.0 = Debug|x64
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Debug|x86.Build.0 = Debug|Win32
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Release|x64.ActiveCfg = Release|x64
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Release|x64.Build.0 = Release|x64
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Release|x86.ActiveCfg = Release|Win32
+		{E94D668B-98C9-4506-B16A-D7CE8435898F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DDC0135-AC83-4709-BB18-0FA210A9BDA8}
+	EndGlobalSection
+EndGlobal

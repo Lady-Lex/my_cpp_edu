@@ -1,0 +1,19 @@
+﻿“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Users\李云川\Desktop\C++\C++实验1.3 输出日期\Debug\C++实验1.3 输出日期.exe”。已加载符号。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x6a98 已退出，返回值为 0 (0x0)。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。
+“C++实验1.3 输出日期.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。
+线程 0x1e94 已退出，返回值为 0 (0x0)。
+线程 0x84e4 已退出，返回值为 0 (0x0)。
+线程 0x8ce0 已退出，返回值为 0 (0x0)。
+程序“[12828] C++实验1.3 输出日期.exe”已退出，返回值为 0 (0x0)。

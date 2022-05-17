@@ -1,0 +1,13 @@
+﻿“回退N步（gbn）C语言实现.exe”(Win32): 已加载“D:\学习资料\C++代码库\大二下代码\回退N步（gbn）C语言实现\Debug\回退N步（gbn）C语言实现.exe”。已加载符号。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\apphelp.dll”。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x4308 已退出，返回值为 0 (0x0)。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“回退N步（gbn）C语言实现.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+线程 0x6ab0 已退出，返回值为 0 (0x0)。
+线程 0x114c 已退出，返回值为 0 (0x0)。
+程序“[26680] 回退N步（gbn）C语言实现.exe”已退出，返回值为 0 (0x0)。
